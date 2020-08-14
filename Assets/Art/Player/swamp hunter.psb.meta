@@ -94,8 +94,8 @@ ScriptedImporter:
     border: {x: 16, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 424
-      y: 4
+      x: 206
+      y: 357
       width: 213
       height: 292
     spriteID: 2e103e6966cb4f349867d551b5df7a44
@@ -832,7 +832,7 @@ ScriptedImporter:
     - {x: 10, y: 66}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -378, y: -713}
+    uvTransform: {x: -596, y: -360}
   - name: Layer 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1225,7 +1225,7 @@ ScriptedImporter:
     - {x: 0, y: 30}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -596, y: -660}
+    uvTransform: {x: -589, y: -660}
   - name: Ellipse 4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1233,7 +1233,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 2005
+      x: 1972
       y: 62
       width: 13
       height: 12
@@ -1423,7 +1423,7 @@ ScriptedImporter:
     - {x: 15, y: 0}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1069, y: -1061}
+    uvTransform: {x: 1036, y: -1061}
   - name: Ellipse 5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1431,8 +1431,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 2004
-      y: 86
+      x: 2006
+      y: 4
       width: 9
       height: 10
     spriteID: ee858aa8818097c43b18e7355dbeaa6d
@@ -1622,7 +1622,7 @@ ScriptedImporter:
     - {x: 15, y: 1}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1148, y: -1044}
+    uvTransform: {x: 1150, y: -1126}
   - name: Ellipse 2 copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1630,7 +1630,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 2004
+      x: 1971
       y: 4
       width: 27
       height: 23
@@ -1888,7 +1888,7 @@ ScriptedImporter:
     - {x: 0, y: 18}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1159, y: -1118}
+    uvTransform: {x: 1126, y: -1118}
   - name: Ellipse 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1896,7 +1896,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 2004
+      x: 1971
       y: 34
       width: 27
       height: 23
@@ -2144,7 +2144,7 @@ ScriptedImporter:
     - {x: 0, y: 18}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1078, y: -1087}
+    uvTransform: {x: 1045, y: -1087}
   - name: Ellipse 1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2152,8 +2152,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 445
+      x: 206
+      y: 657
       width: 183
       height: 187
     spriteID: 4a3c7460f903ab941bc7be5e35cbafd3
@@ -2482,7 +2482,7 @@ ScriptedImporter:
     - {x: 0, y: 25}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -798, y: -564}
+    uvTransform: {x: -596, y: -352}
   - name: Layer 5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2490,8 +2490,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 18, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 640
+      x: 1790
+      y: 4
       width: 173
       height: 75
     spriteID: b6db7e9eecd5ec143a19ed840957c3fb
@@ -2997,7 +2997,7 @@ ScriptedImporter:
     - {x: 44, y: 20}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -625, y: 113}
+    uvTransform: {x: 1161, y: -523}
   - name: Layer 4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3700,7 +3700,7 @@ ScriptedImporter:
     border: {x: 65, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 1589
+      x: 1375
       y: 2
       width: 207
       height: 94
@@ -4071,7 +4071,7 @@ ScriptedImporter:
     - {x: 26, y: 21}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 556, y: -841}
+    uvTransform: {x: 342, y: -841}
   - name: Layer 6
     originalName: 
     pivot: {x: 0.28732905, y: 0.3718869}
@@ -4079,7 +4079,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 125, w: 0}
     rect:
       serializedVersion: 2
-      x: 655
+      x: 441
       y: 3
       width: 282
       height: 107
@@ -4763,7 +4763,7 @@ ScriptedImporter:
     - {x: 60, y: 36}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 93, y: -852}
+    uvTransform: {x: -121, y: -852}
   - name: Layer 10
     originalName: 
     pivot: {x: 0.51696503, y: 0.6511931}
@@ -4771,7 +4771,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 1804
+      x: 1590
       y: 4
       width: 202
       height: 102
@@ -5187,7 +5187,7 @@ ScriptedImporter:
     - {x: 27, y: 31}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1010, y: -1167}
+    uvTransform: {x: 796, y: -1167}
   - name: Layer 11
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5195,7 +5195,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 645
+      x: 431
       y: 119
       width: 240
       height: 149
@@ -5637,7 +5637,7 @@ ScriptedImporter:
     - {x: 0, y: 32}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -109, y: -844}
+    uvTransform: {x: -323, y: -844}
   platformSettings: []
   mosaicLayers: 1
   documentPivot: {x: 0, y: 0}
@@ -5663,70 +5663,70 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 3a154fde0956c404e980a594e675a78a
     layerID: 73
-    mosaicPosition: {x: 645, y: 119}
+    mosaicPosition: {x: 431, y: 119}
   - name: Layer 10
     spriteName: Layer 10
     isGroup: 0
     parentIndex: -1
     spriteID: 9226430db9c15674c932bf615979f299
     layerID: 72
-    mosaicPosition: {x: 1802, y: 4}
+    mosaicPosition: {x: 1588, y: 4}
   - name: Ellipse 4
     spriteName: Ellipse 4
     isGroup: 0
     parentIndex: -1
     spriteID: e9ebf2a40dc0c0d4483f9646560c7f2a
     layerID: 68
-    mosaicPosition: {x: 2004, y: 66}
+    mosaicPosition: {x: 1971, y: 66}
   - name: Ellipse 5
     spriteName: Ellipse 5
     isGroup: 0
     parentIndex: -1
     spriteID: ee858aa8818097c43b18e7355dbeaa6d
     layerID: 70
-    mosaicPosition: {x: 2004, y: 86}
+    mosaicPosition: {x: 2006, y: 4}
   - name: Ellipse 2 copy
     spriteName: Ellipse 2 copy
     isGroup: 0
     parentIndex: -1
     spriteID: b168d8bdf639a9a41bbc2f22f616b221
     layerID: 63
-    mosaicPosition: {x: 2004, y: 4}
+    mosaicPosition: {x: 1971, y: 4}
   - name: Ellipse 2
     spriteName: Ellipse 2
     isGroup: 0
     parentIndex: -1
     spriteID: 8a0344f4252a48c408ebfe98b7f89350
     layerID: 61
-    mosaicPosition: {x: 2004, y: 35}
+    mosaicPosition: {x: 1971, y: 35}
   - name: Layer 5
     spriteName: Layer 5
     isGroup: 0
     parentIndex: -1
     spriteID: b6db7e9eecd5ec143a19ed840957c3fb
     layerID: 47
-    mosaicPosition: {x: 4, y: 640}
+    mosaicPosition: {x: 1790, y: 4}
   - name: Layer 6
     spriteName: Layer 6
     isGroup: 0
     parentIndex: -1
     spriteID: 056034dd49d4a4147adec388fe800010
     layerID: 49
-    mosaicPosition: {x: 645, y: 4}
+    mosaicPosition: {x: 431, y: 4}
   - name: Ellipse 1
     spriteName: Ellipse 1
     isGroup: 0
     parentIndex: -1
     spriteID: 4a3c7460f903ab941bc7be5e35cbafd3
     layerID: 35
-    mosaicPosition: {x: 4, y: 445}
+    mosaicPosition: {x: 206, y: 657}
   - name: Layer 7
     spriteName: Layer 7
     isGroup: 0
     parentIndex: -1
     spriteID: 2e103e6966cb4f349867d551b5df7a44
     layerID: 53
-    mosaicPosition: {x: 424, y: 4}
+    mosaicPosition: {x: 206, y: 357}
   - name: Layer 3
     spriteName: Layer 3
     isGroup: 0
@@ -5747,7 +5747,7 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 1ce2fe644a79c384c87e5f02f44427bc
     layerID: 50
-    mosaicPosition: {x: 1196, y: 4}
+    mosaicPosition: {x: 982, y: 4}
   characterData:
     bones:
     - name: bone_1
