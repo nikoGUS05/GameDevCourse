@@ -21,12 +21,17 @@ public class PlayerController : MonoBehaviour
 
     public GameObject gameOver;
 
+    public GameObject shield;
 
+    public bool shieldOn = false;
+
+     
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        shield.gameObject.SetActive(false);
     }
     //Update method used for physics in our game, because it happens every fixed amount of time
 
@@ -37,7 +42,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-            
+        
+
         if (grounded && Input.GetKeyDown(KeyCode.Space))
         {
             anim.SetTrigger("Jump");
@@ -46,6 +52,17 @@ public class PlayerController : MonoBehaviour
 
        anim.SetFloat("yVelocity", rb.velocity.y);
         anim.SetBool("Grounded", grounded);
+
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            shield.gameObject.SetActive(true);
+            shieldOn = true;
+        }
+        if (Input.GetKeyUp(KeyCode.S))
+        {
+            shield.gameObject.SetActive(false);
+            shieldOn = false;
+        }
 
     }
    

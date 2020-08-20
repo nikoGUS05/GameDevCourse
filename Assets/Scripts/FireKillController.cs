@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class KillPlayerOnContact : MonoBehaviour
+public class FireKillController : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -12,5 +12,6 @@ public class KillPlayerOnContact : MonoBehaviour
             collision.GetComponent<PlayerController>().GameOver();
         }
     }
-   
 }
+    
+
