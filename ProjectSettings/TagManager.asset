@@ -53,6 +53,6 @@ TagManager:
   - name: Front
     uniqueID: 1987044741
     locked: 0
-  - name: New Layer
+  - name: UI
     uniqueID: 3112163003
     locked: 0
